@@ -1,0 +1,28 @@
+body {
+  background-color: #EAC696;
+  font-family: "Signika Negative", sans-serif;
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: lower-latin;
+}
+
+fieldset{
+  border: solid #513615; 
+  display:inline;
+  font-size: 18px;
+}
+
+.brown-text {
+  color: #513615;
+}
+
+.photo-margin {
+  margin-top: -80px;
+  margin-bottom: -80px;
+}
+
+.bigger-h1 {
+  font-size: 50px;
+  color: #513615;
+}
+
